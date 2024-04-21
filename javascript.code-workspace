@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/DOM+Challenge+Starting+Files/DOM Challenge Starting Files"
+		},
+		{
+			"path": "../../../../Downloads/Drum+Kit+Starting+Files/Drum Kit Starting Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
